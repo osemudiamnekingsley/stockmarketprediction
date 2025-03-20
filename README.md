@@ -34,12 +34,6 @@ LSTM is the most suitable model for stock price prediction in this project, give
 - XGBoost
 - Statsmodels
 
-## How to Run
-1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the model scripts to train and predict stock prices.
-4. Visualize the results using the provided plotting functions.
-
 ## Acknowledgements
 - Data sourced from Yahoo Finance.
 - Libraries used for analysis and visualization.
