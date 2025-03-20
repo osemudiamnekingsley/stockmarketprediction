@@ -1,5 +1,5 @@
 # Stock Price Prediction Project 
-
+ 
 ## Overview
 This project involves time series analysis and stock price prediction using three different models: ARIMA, LSTM, and XGBoost. The goal is to compare the performance of these models in capturing market trends and predicting future prices.
 
